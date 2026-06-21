@@ -12,9 +12,7 @@
   SQL, testing, security and clean project structure.
 </p>
 
-<p align="center">
   <h4 align="center">📍 Based in Spain · 💻​ Also into IT, PCs and performance.</h4>
-</p>
 
 ---
 
