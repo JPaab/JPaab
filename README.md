@@ -117,7 +117,7 @@ I learn backend by building projects with real product flows: APIs with authenti
     </td>
     <td width="50%">
       <a href="https://github.com/JPaab/web-reposteria">
-        <img src="https://opengraph.githubassets.com/1/JPaab/web-reposteria" alt="E-commerce Platform preview"/>
+        <img src="./assets/web-reposteria.png" alt="E-commerce Platform preview"/>
       </a>
       <h3>- E-commerce Platform</h3>
       <p>
